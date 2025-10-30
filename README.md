@@ -24,7 +24,7 @@ add to ```claude_desktop_config.json```
   "mcpServers": {
     "plant-detector": {
       "command": "C:\\path\\to\\grok_env\\Scripts\\python.exe",
-      "args": ["C:\\path\\to\\grok-plant-detector\\mcp_fast_grok_real.py"]
+      "args": ["C:\\path\\to\\grok-mcp-plant-detection\\mcp_fast_grok_real.py"]
     }
   }
 }
