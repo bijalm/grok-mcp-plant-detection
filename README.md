@@ -29,3 +29,9 @@ add to ```claude_desktop_config.json```
   }
 }
 ```
+
+## Testing MCP file on local
+add images to the images_test folder
+```bash
+python test_direct.py
+```
